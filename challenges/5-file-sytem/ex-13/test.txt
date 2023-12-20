@@ -1,0 +1,6 @@
+Hello
+<<<<<<< HEAD
+World
+=======
+World
+>>>>>>> b37cf2f (Cached data.csv)
